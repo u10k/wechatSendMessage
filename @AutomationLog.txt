@@ -1,0 +1,6 @@
+2023-03-07 13:50:46.518 send_message.py[11] get_msg_list -> Find Control Timeout(10s): {ControlType: ListControl}
+2023-03-07 13:51:18.522 send_message.py[11] get_msg_list -> Find Control Timeout(10s): {ControlType: ListControl}
+2023-03-07 13:52:14.941 send_message.py[11] get_msg_list -> Find Control Timeout(10s): {ControlType: ListControl}
+2023-03-07 13:53:01.294 send_message.py[11] get_msg_list -> Find Control Timeout(10s): {Name: '文件传输助手', ControlType: WindowControl}
+2023-03-07 13:54:39.874 send_message.py[11] get_msg_list -> Find Control Timeout(10s): {Name: '文件传输助手', ControlType: WindowControl}
+2023-03-07 13:55:20.331 send_message.py[11] get_msg_list -> Find Control Timeout(10s): {Name: 'wx_demo3', ControlType: WindowControl}
